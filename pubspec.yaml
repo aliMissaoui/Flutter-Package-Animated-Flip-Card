@@ -1,6 +1,6 @@
 name: animated_flip_card
 description: Flutter package to implement an animated flip card widget that can be used to show and hide information.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/aliMissaoui/Flutter-Package-Animated-Flip-Card
 
 environment:
