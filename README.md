@@ -28,7 +28,8 @@ By pressing the widget card it will flip to the front or the back side of the ca
 
 *The package will handle the animation by itself.*
 
-![animated_flip_card](https://user-images.githubusercontent.com/68671238/134653636-1e0f070c-588a-4189-aa7f-45e9957ccae9.png)
+![animated flip card](https://user-images.githubusercontent.com/68671238/136711160-9b56f8f4-d606-44dc-a401-9e843525a431.png)
+
   
 <hr>
 
@@ -92,7 +93,10 @@ class _MyHomePageState extends State<MyHomePage> {
 <hr>
 
 
-https://user-images.githubusercontent.com/68671238/134640734-751456fa-686b-4e77-bc8d-04ba3a324baf.mp4
+
+https://user-images.githubusercontent.com/68671238/136711345-3a2d11b0-2b66-43d0-bbcf-89e6ea79c7e5.mp4
+
+
 
 
    </td>
