@@ -52,11 +52,13 @@ class _AnimatedFlipCardState extends State<AnimatedFlipCard>
   Future flipCard() async {
     // To prevent stopping animation by pressing multiple times
     if (controller.isAnimating) return;
+    // Change the showing side of the card
     isFront = !isFront;
 
     // To set the flipping animation on one direction
     await controller.forward(from: 0).then((value) => anglePlus = pi);
-    // To make the flipping animation switching directions
+
+    // To make the flipping animation change directions
     // if (isFront) {
     //   await controller.reverse();
     // } else {
