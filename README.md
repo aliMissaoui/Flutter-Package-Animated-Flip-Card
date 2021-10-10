@@ -38,7 +38,7 @@ By pressing the widget card it will flip to the front or the back side of the ca
 1. Add the latest version of package to your `pubspec.yaml` (and run `dart pub get`):
 ```dart
 dependencies:
-  animated_flip_card: ^1.0.0
+  animated_flip_card: ^1.0.2
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
